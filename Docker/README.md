@@ -77,6 +77,7 @@ Author: Tomer Krausz Mallik
 * [Networking](https://www.youtube.com/watch?v=6v_BDHIgOY8) 
 * [container Networking ](https://docs.docker.com/config/containers/container-networking/) 
 * [container communication](https://morioh.com/p/07e61c20c234)
+* [Docker communication in depth](https://medium.com/techlog/diving-into-linux-networking-and-docker-bridge-veth-and-iptables-a05eb27b1e72)
 
 
 ### Drills:
