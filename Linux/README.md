@@ -38,9 +38,9 @@ Author: Tomer Krausz Mallik
   
 ### surface level:
 * Cpu dispacher
-* Non preemptive scheduling
-* preemptive scheduling
-* Schedualing algorithms (FCFS, SJF)
+* Non preemptive scheduling - להוריד
+* preemptive scheduling - להוריד
+* Schedualing algorithms (FCFS, SJF) - להוריד
 * Context switching
 * /etc/sudoers - hands on
 * /etc/passwd - hands on
@@ -77,23 +77,23 @@ Author: Tomer Krausz Mallik
 ### in depth
 * Process
 * Process states
-* Zombie process
-* signals
-* threads
+* Zombie process - להוריד?
+* Signals
+* Threads
 * Fork & exec
 * Copy on write
 * Shared memory
 * Inter process communications
 * systemd 
-* Service 
+* Service and Unit files
 * Systemctl
+* Daemon
   
 ### surface level  
 * Process permissions
 * Process priorities
 * OOM Killer
-* Service creation - hands on
-* daemon
+
 <br></br>
 **Reading materials:** 
 * [Process](https://www.tutorialspoint.com/operating_system/os_processes.htm)
@@ -125,7 +125,7 @@ Author: Tomer Krausz Mallik
 * SAN
 * journaling
 * MBR
-* file systems - allocation schemes (XFS, NTFS, EXT, FAT)
+* file systems - allocation schemes (XFS, NTFS, EXT, FAT) - להעיף FAT,NTFS
 * VFS
 * Partition - hands on
 * mount - hands on
@@ -158,6 +158,7 @@ Author: Tomer Krausz Mallik
 * netstat -hands on
 * /etc/resolv.conf
 * /etc/hosts
+* Route tables - hands on
 
 ### surface level
 * /etc/sysconfig/network
@@ -169,7 +170,6 @@ Author: Tomer Krausz Mallik
 > * targets
 * IPVS
 * ss - hands on
-* Route tables - hands on
 * sockets
 * unix sockets
 * /etc/nsswitch.conf
@@ -197,7 +197,7 @@ Author: Tomer Krausz Mallik
 * Linux Permissions
 * SELINUX
 * MAC
-* DAC
+* DAC - להוריד?
 * RBAC
 * Type Enforcement
 <br></br>
@@ -222,7 +222,7 @@ Author: Tomer Krausz Mallik
 * [SSH Keys](https://jumpcloud.com/blog/what-are-ssh-keys#:~:text=Essentially%2C%20SSH%20keys%20are%20an,to%20manage%20the%20remote%20system.)
 <br></br>
 
-## Permissions Management:
+## Others:
 **Deliveries:** 
 ### in depth
 * RPM
